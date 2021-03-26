@@ -1,2 +1,4 @@
 ## Physics of Classical & Quantum Info
-### Assignments using *cirq*
+#### Assignments using [cirq](https://github.com/quantumlib/Cirq) v0.5.0
+
+_Note:_ Due to [cirq](https://github.com/quantumlib/Cirq)'s alpha nature at the time of writing this code, it might not run in [cirq](https://github.com/quantumlib/Cirq)'s newest version.
